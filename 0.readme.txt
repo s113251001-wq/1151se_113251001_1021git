@@ -12,3 +12,5 @@ uv run fastapi dev xxx.py
 
 db.py: utility module for lifespan management and DB connection with connection pools
 students.sql: example data for db usage testing
+
+test test test
